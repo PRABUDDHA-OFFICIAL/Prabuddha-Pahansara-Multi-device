@@ -20,23 +20,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `ʜᴇʏ ᴛʜᴇʀᴇ ɪ ᴀᴍ ᴏɴʟɪɴᴇ ɴᴏᴡ🔥
+ᴅᴇᴘʟᴏʏ ʙʏ 🎭ᴍʀ ᴘʀᴀʙᴜᴅᴅʜᴀ🇱🇰⛏`  //Costomize Alive Message (ඔබේ පණිවිඩය ටයිප් කරන්න `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94774155960] //Owner number in aive msg
+global.premium = ['+93774155960'] //Owner Number info
+nomer = ['+94774155960'] //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+global.ownername = 'ᴍʀ ᴘʀᴀʙᴜᴅᴅʜᴀ' //Owner Name
+global.botname = ' ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀʙᴏᴛ' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '🤭ᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ📍' //Costomize A Button Name In Alive Message
+global.btnurl = '🙂🔥ᴊᴏɪɴ ᴡɪᴛʜ ᴜꜱ👻😻' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = 'ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀ ʙᴏᴛ' //Bot Pacage Name
+global.author = 'ᴘʀᴀʙᴜᴅᴅʜᴀ ᴡᴀʙᴏᴛ ' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
