@@ -33,13 +33,13 @@ global.botname = ' ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡ�
 global.button = '🤭ᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ📍' //Costomize A Button Name In Alive Message
 global.btnurl = '🙂🔥ᴊᴏɪɴ ᴡɪᴛʜ ᴜꜱ👻😻' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Sri lanka , Western province , Kalutara ' //Country Region
 
 global.packname = 'ᴘʀᴀʙᴜᴅᴅʜᴀ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡᴀ ʙᴏᴛ' //Bot Pacage Name
 global.author = 'ᴘʀᴀʙᴜᴅᴅʜᴀ ᴡᴀʙᴏᴛ ' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
-global.sp = '⭔' //A Charactor In Menu!
+global.sp = .menu' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
